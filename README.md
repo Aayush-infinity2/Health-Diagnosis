@@ -62,7 +62,7 @@ Source → https://example-medical-link.com
 ### 1. Clone the repository:
 
 ```
-git clone https://github.com/<your-username>/Health-Diagnosis-AI.git
+git clone https://github.com/Aayush-infinity2/Health-Diagnosis-AI.git
 cd Health-Diagnosis-AI
 ```
 
@@ -73,7 +73,7 @@ cd Health-Diagnosis-AI
 
 ### 3. Run the Streamlit app:
 
-`` streamlit run app_streamlit.py
+`` streamlit run main.py
 ``
 
 ## 🌍 Deployment
