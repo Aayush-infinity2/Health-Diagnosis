@@ -1,4 +1,4 @@
-# Health-Diagnosis-AI
+# Health-Diagnosis
 
 Machine Learning and NLP based health diagnosis system that predicts the most likely disease based on user-provided symptoms.
 
@@ -62,7 +62,7 @@ Source → https://example-medical-link.com
 ### 1. Clone the repository:
 
 ```
-git clone https://github.com/Aayush-infinity2/Health-Diagnosis-AI.git
+git clone https://github.com/Aayush-infinity2/Health-Diagnosis.git
 cd Health-Diagnosis-AI
 ```
 
